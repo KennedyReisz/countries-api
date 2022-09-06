@@ -11,6 +11,6 @@
 <br />
 <br />
 <div align=center>
-<a href="">preview</a>
+<a href="https://countries-api-five-beta.vercel.app/">preview</a>
 <img src="https://cdn.discordapp.com/attachments/947553243737784370/1016791500585185280/unknown.png" />
 </div>
